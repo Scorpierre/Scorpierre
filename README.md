@@ -38,15 +38,14 @@ I design and ship **AI-powered systems** on Azure — from LLM integration and c
 ## Tech stack
 
 ```
-Cloud        →  Azure · Terraform · Kubernetes · Docker · CI/CD
+Cloud        →  Azure · Terraform
 AI & LLM     →  Claude API · Claude Code · Prompt Engineering · n8n · OpenAI API
 Backend      →  NestJS · Node.js · REST API · C / C++ · .NET
 Frontend     →  Angular · Svelte · Next.js · Figma
 Data         →  Python · SQL · Pandas · scikit-learn
+DevOps       →  Docker · Kubernetes · GitHub Actions · CI/CD
 ```
-
 ---
-
 ## Microsoft Azure certifications
 
 | Certification | Area | Status |
