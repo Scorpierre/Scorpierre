@@ -38,8 +38,8 @@ My focus is **digital transformation** — turning Cloud infrastructure, AI, and
 ## Tech stack
 
 ```
-Cloud        →  Azure · Terraform · Kubernetes
-AI & LLM     →  Claude API · Claude Code · Prompt Engineering · Azure AI
+Cloud        →  Azure · Terraform
+AI & LLM     →  Claude API · Claude Code · Prompt Engineering · Azure AI · openAi
 Web          →  Next.js · Node.js · Svelte · Angular · REST API
 Languages    →  Python · TypeScript · JavaScript · SQL
 DevOps       →  Docker · Kubernetes · GitHub Actions · CI/CD
