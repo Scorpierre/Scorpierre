@@ -8,9 +8,8 @@
 [![Epitech](https://img.shields.io/badge/Epitech-Expert%20en%20Technologies%20de%20l'Information%20%7C%20RNCP%20Niv.7-E6F1FB?style=flat-square&color=E6F1FB&labelColor=E6F1FB)](#)
 [![BBA Honours](https://img.shields.io/badge/BBA-International%20Business%20Honours-E1F5EE?style=flat-square&color=E1F5EE&labelColor=E1F5EE)](#)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pierre%20Connes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pierreconnes)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:pierre.connes@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pierreconnes.dev-111111?style=flat-square&logo=vercel&logoColor=white)](https://pierreconnes.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pierre%20Connes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-connes/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:pr.connes@email.com)
 
 
 
